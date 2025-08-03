@@ -17,7 +17,7 @@
 - Debugging with gdb & Valgrind
 
 ## Contact
-- 📫 Reach me on GitHub or email: natinael@example.com
+- 📫 Reach me on GitHub or email: natinaeleliyas45@gmail.com
 
 ---
 
