@@ -1,25 +1,36 @@
-# Hi, I'm Natinael! 👋
+👋 Hi, I'm Natinael!
+I'm a passionate C programmer and aspiring system developer, currently studying at 42 Abu Dhabi. I love breaking down problems and rebuilding them through code.
 
-## About Me
-- Passionate about **C programming** and system development.
-- Learning advanced C concepts like pointers, memory management, and data structures.
-- Building projects to sharpen my skills.
+🚀 About Me
+🔧 Focused on low-level programming and system concepts.
 
-## Projects
-- 🔹 [Simple Shell](https://github.com/Natinael-Developer-ETH/simple_shell)
-- 🔹 [Libft](https://github.com/Natinael-Developer-ETH/libft)
-- 🔹 [Printf](https://github.com/Natinael-Developer-ETH/ft_printf)
+📚 Learning advanced C topics: pointers, memory management, data structures.
 
-## Skills
-- C (pointers, structs, malloc/free)
-- Debugging with gdb & Valgrind
-- Writing Makefiles
+🧠 Practicing through real-world projects and hands-on challenges.
 
-## Contact
-- 📫 Reach me on GitHub or email: natinaeleliyas45@gmail.com
+🌍 Multilingual: English, Amharic
 
----
+🛠️ Skills
+Languages: C (deep knowledge of pointers, structs, malloc/free)
 
-*እንኳን ደህና መጡ! ይህ ገፅ ስለ C ፕሮግራሚንግ ነው።*
+Tools: gdb, Valgrind, Makefiles
 
-![Natinael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natinael-Developer-ETH&show_icons=true&theme=radical)
+Concepts: Memory management, algorithms, debugging, shell scripting basics
+
+📂 Projects
+Project	Description	Link
+🐚 Simple Shell	A basic Unix shell clone built in C	View Repo
+🧱 Libft	Custom implementation of standard C library functions	View Repo
+🖨️ ft_printf	My own version of the printf function	View Repo
+
+📫 Contact
+💌 Email: natinaeleliyas45@gmail.com
+
+🧑‍💻 GitHub: Natinael-Developer-ETH
+
+📊 GitHub Stats
+
+
+🌍 እንኳን ደህና መጡ!
+ይህ ገፅ ስለ C ፕሮግራሚንግ ነው። ከታች ያሉት ፕሮጀክቶች የተለያዩ ቴክኒኮችን እና አስተዋፅኦዎችን ይገልጻሉ።
+
