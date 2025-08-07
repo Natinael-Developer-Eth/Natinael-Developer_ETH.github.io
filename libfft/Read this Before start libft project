@@ -1,0 +1,126 @@
+# 🧱 Libft – My Custom C Standard Library
+
+## 📚 What is Libft?
+
+Libft is the very first project in the 42 School curriculum. The goal is to **recreate several standard C library functions** from scratch — without using any of the built-in C library functions (except `write`, `malloc`, and `free` in some cases).
+
+This project helps students understand:
+- Memory manipulation
+- String operations
+- Character checks
+- Linked list data structures
+- How the C Standard Library works under the hood
+
+It is the foundation for almost every future project at 42.
+
+---
+
+## 🚀 Project Structure
+
+### Part 1 – Libc Functions
+Rewriting common standard C functions:
+- `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memmove`
+- `ft_strlcpy`, `ft_strlcat`, `ft_strlen`, `ft_strchr`, `ft_strrchr`
+- `ft_strncmp`, `ft_memchr`, `ft_memcmp`, `ft_strnstr`
+- `ft_atoi`, `ft_isalpha`, `ft_isdigit`, `ft_isalnum`, `ft_isascii`, `ft_isprint`
+- `ft_toupper`, `ft_tolower`
+- `ft_calloc`, `ft_strdup`
+
+### Part 2 – Additional Functions
+Creating more complex functions:
+- `ft_substr`, `ft_strjoin`, `ft_strtrim`
+- `ft_split`, `ft_itoa`, `ft_strmapi`, `ft_striteri`
+- `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`
+
+### Bonus Part – Linked Lists
+Implementing a custom singly linked list library:
+- `ft_lstnew`, `ft_lstadd_front`, `ft_lstsize`, `ft_lstlast`
+- `ft_lstadd_back`, `ft_lstdelone`, `ft_lstclear`, `ft_lstiter`, `ft_lstmap`
+
+---
+
+## 🛠️ How to Compile
+
+```bash
+make        # Compiles libft.a
+make clean  # Removes object files
+make fclean # Removes object files and the library
+make re     # Recompiles everything from scratch
+
+
+
+# 🧱 Libft – My Custom C Standard Library
+
+![Language](https://img.shields.io/badge/C-Programming-00599C?style=flat-square&logo=c)
+![42 Project](https://img.shields.io/badge/42-Abu%20Dhabi-blue?style=flat-square&logo=42)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=flat-square)
+
+---
+
+## 📚 What is Libft? | ስለ Libft
+
+Libft is the very first project in the 42 School curriculum. The goal is to **recreate several standard C library functions** from scratch — without using any of the built-in C library functions (except `write`, `malloc`, and `free` in some cases).
+
+Libft በ 42 ትምህርት መነሻ ፕሮጀክት ነው። ከ C ቋንቋ ውስጥ የተለመዱ ፋንክሽኖችን በእራሳችን እንድንፃፍ ያስገደደና በስራ ይወቃል።
+
+### This project helps understand:
+- 🧠 Memory manipulation (ማስታወሻን መቆጣጠር)
+- 🧵 String operations (የየሴት ሐረጎች ስራዎች)
+- 🔣 Character checks (የቁምፊ ምርመራ)
+- 🌿 Linked list data structures (ተያያዥ ዝርዝር)
+- ⚙️ How the C Standard Library works under the hood (የ C መደበኛ መጻሕፍት የውስጥ አሰራር)
+
+👉 **Libft is the foundation for almost every future project at 42.**
+
+---
+
+## 🚀 Project Structure | የፕሮጀክቱ መዋቅር
+
+### Part 1 – Libc Functions | የመደበኛው ፋንክሽኖች መቅደም
+
+```c
+ft_memset, ft_bzero, ft_memcpy, ft_memmove  
+ft_strlcpy, ft_strlcat, ft_strlen, ft_strchr, ft_strrchr  
+ft_strncmp, ft_memchr, ft_memcmp, ft_strnstr  
+ft_atoi, ft_isalpha, ft_isdigit, ft_isalnum, ft_isascii, ft_isprint  
+ft_toupper, ft_tolower  
+ft_calloc, ft_strdup
+
+Part 2 – Additional Functions | ተጨማሪ ስራዎች
+
+
+ft_substr, ft_strjoin, ft_strtrim  
+ft_split, ft_itoa, ft_strmapi, ft_striteri  
+ft_putchar_fd, ft_putstr_fd, ft_putendl_fd, ft_putnbr_fd
+
+Bonus Part – Linked Lists | ቦነስ: ሊንክ ዝርዝሮች
+
+ft_lstnew, ft_lstadd_front, ft_lstsize, ft_lstlast  
+ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
+
+
+🛠️ How to Compile | እንዴት እንደሚሰራ
+
+make        # libft.a እንዲሰራ  
+make clean  # የ .o ፋይሎችን ማጥፋት  
+make fclean # ሁሉንም ፋይል ማጥፋት  
+make re     # ነጠላ ማቀናበሪያ ከመጀመሪያ
+
+
+
+Example of using Libft in your program:
+
+
+#include "libft.h"
+
+int main(void)
+{
+    ft_putstr_fd("Hello Libft!\n", 1);
+    return (0);
+}
+
+
+📌 Final Notes | መጨረሻ ማስታወሻ
+
+This project is part of the 42 School Curriculum. Please do not copy others' code — it’s better to struggle and learn step by step.
+እርስዎ ራሳችሁን በመተምበር በጥንቃቄ መማር ይሻላል።
